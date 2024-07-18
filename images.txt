@@ -1,2 +1,2 @@
-docker.io/calicovpp/agent:v3.28.0
-docker.io/calicovpp/vpp:v3.28.0
+docker.io/calicovpp/agent:v3.26.0
+docker.io/calicovpp/vpp:v3.26.0
