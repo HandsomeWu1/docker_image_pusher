@@ -1,1 +1,2 @@
-quay.io/tigera/operator:v1.30.9
+docker.io/calicovpp/agent:v3.24.1
+docker.io/calicovpp/vpp:v3.24.1
