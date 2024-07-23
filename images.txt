@@ -1,1 +1,2 @@
-docker.io/calico/cni:v3.24.5
+docker.io/calicovpp/agent:v3.24.0
+docker.io/calicovpp/vpp:v3.24.0
